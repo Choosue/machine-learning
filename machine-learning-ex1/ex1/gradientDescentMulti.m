@@ -18,11 +18,11 @@ for iter = 1:num_iters
     %
 
     % temp = zeros(size(theta, 1), 1);
-    % for i = 1:size(theta, 1)
-    %     temp(i) = theta(i) - alpha * sum((X * theta - y) .* X(:,i)) / m;
+    % for j = 1:size(theta, 1)
+    %     temp(j) = theta(j) - alpha * sum((X * theta - y) .* X(:,j)) / m;
     % end
-    % for i = 1:size(theta, 1)
-    %     theta(i) = temp(i);
+    % for j = 1:size(theta, 1)
+    %     theta(j) = temp(j);
     % end
 
     theta = theta - alpha * X' * (X * theta - y) / m;
