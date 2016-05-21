@@ -12,9 +12,11 @@ figure; hold on;
 %               examples and 'ko' for the negative examples.
 %
 
+pos = find(y == 1); % Find all the indices for y(i) equals 1 in vector y
+neg = find(y == 0); % Find all the indices for y(i) equals 0 in vector y
 
-
-
+plot(X(pos, 1), X(pos, 2), 'k+', 'LineWidth', 2, 'MarkerSize', 7);         % Plot all the positive data
+plot(X(neg, 1), X(neg, 2), 'ko', 'MarkerFaceColor', 'y', 'MarkerSize', 7); % Plot all the negative data
 
 
 
