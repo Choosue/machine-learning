@@ -21,8 +21,23 @@ p = zeros(size(X, 1), 1);
 %       can use max(A, [], 2) to obtain the max for each row.
 %
 
+% Assign X to A1
+A1 = X;
 
+% Add bias unit to A1
+A1 = [ones(m, 1) A1];
 
+% Calculate the hidden layer A2
+A2 = sigmoid(A1 * Theta1');
+
+% Add bias unit to A2
+A2 = [ones(m, 1) A2];
+
+% Calculate the output layer A3
+A3 = sigmoid(A2 * Theta2');
+
+% Make the predictions based on A3
+[maxValue p] = max(A3, [], 2);
 
 
 

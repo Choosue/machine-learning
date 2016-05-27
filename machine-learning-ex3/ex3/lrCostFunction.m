@@ -36,7 +36,19 @@ grad = zeros(size(theta));
 %           grad = grad + YOUR_CODE_HERE (using the temp variable)
 %
 
+% We should not regularize theta1, so we set theta1 to be 0
+temp = theta;
+temp(1) = 0;
 
+% Code to compute unregularized J
+J = ((-1 * y)' * log(sigmoid(X * theta)) - (1 - y)' * log(1 - sigmoid(X * theta))) / m; % Unregularized
+% Code to regularize J
+J = J + (lambda / (2 * m)) * (temp' * temp); % Regularized
+
+% Code to compute unregularized grad
+grad = X' * (sigmoid(X * theta) - y) / m; % Unregularized
+% Code to regression grad
+grad = grad + (lambda / m) * temp; % Regularized
 
 
 
