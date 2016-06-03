@@ -69,9 +69,13 @@ A2 = [ones(m, 1) A2];
 A3 = sigmoid(A2 * Theta2');
 
 % Expand y into y_matrix
-y_matrix = eye(num_labels)(y,:);
+% y_matrix = eye(num_labels)(y,:); % This is a really tricky method
+y_matrix = zeros(m, num_labels);
+for i = 1:num_labels
+	y_matrix(:, i) = (y == i);
+end
 
-% Code to compute unregularized J
+% Code to compute unregularized J, attention the dot multiplication between y_matrix and log
 J = sum(sum(((-1 * y_matrix) .* log(A3) - (1 - y_matrix) .* log(1 - A3)) / m)); % Unregularized
 
 
