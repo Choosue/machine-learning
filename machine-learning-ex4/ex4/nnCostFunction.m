@@ -78,12 +78,11 @@ end
 % Code to compute unregularized J, attention the dot multiplication between y_matrix and log
 J = sum(sum(((-1 * y_matrix) .* log(A3) - (1 - y_matrix) .* log(1 - A3)) / m)); % Unregularized
 
+% Calculate regularization term
+regularization_term = (lambda / (2 * m)) * (sum(sum(Theta1(:, 1:(size(Theta1, 2) - 1)) .^2)) + sum(sum(Theta2(:, 1:(size(Theta2, 2) - 1)) .^2)));
 
-
-
-
-
-
+% Add the regularization term to the cost
+J = J + regularization_term;
 
 
 
