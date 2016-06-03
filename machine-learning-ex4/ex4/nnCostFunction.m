@@ -62,20 +62,17 @@ Theta2_grad = zeros(size(Theta2));
 %               and Theta2_grad from Part 2.
 %
 
-% Form K y into a matrix
-Y = zeros(num_labels, m);
-for c = 1:num_labels
-	Y(c, :) = y;
-end
-
 % Using Theta1 and Theta2 to compute output units
 X = [ones(m, 1) X];
 A2 = sigmoid(X * Theta1');
 A2 = [ones(m, 1) A2];
 A3 = sigmoid(A2 * Theta2');
 
+% Expand y into y_matrix
+y_matrix = eye(num_labels)(y,:);
+
 % Code to compute unregularized J
-J = sum(sum(((-1 * Y) * log(A3) - (1 - Y) * log(1 - A3)) / m)); % Unregularized
+J = sum(sum(((-1 * y_matrix) .* log(A3) - (1 - y_matrix) .* log(1 - A3)) / m)); % Unregularized
 
 
 
