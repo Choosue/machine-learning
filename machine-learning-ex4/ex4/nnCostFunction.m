@@ -63,8 +63,8 @@ Theta2_grad = zeros(size(Theta2));
 %
 
 % Using Theta1 and Theta2 to compute output units
-X = [ones(m, 1) X];
-A2 = sigmoid(X * Theta1');
+A1 = [ones(m, 1) X];
+A2 = sigmoid(A1 * Theta1');
 A2 = [ones(m, 1) A2];
 A3 = sigmoid(A2 * Theta2');
 
@@ -79,16 +79,44 @@ end
 J = sum(sum(((-1 * y_matrix) .* log(A3) - (1 - y_matrix) .* log(1 - A3)) / m)); % Unregularized
 
 % Calculate regularization term
-regularization_term = (lambda / (2 * m)) * (sum(sum(Theta1(:, 1:(size(Theta1, 2) - 1)) .^2)) + sum(sum(Theta2(:, 1:(size(Theta2, 2) - 1)) .^2)));
+regularization_term = (lambda / (2 * m)) * (sum(sum(Theta1(:, 2:size(Theta1, 2)) .^2)) + sum(sum(Theta2(:, 2:size(Theta2, 2)) .^2)));
 
 % Add the regularization term to the cost
 J = J + regularization_term;
 
+% Back propagation
+Delta1 = zeros(size(Theta1));
+Delta2 = zeros(size(Theta2));
+for t = 1:m
+	% Step 1: feed forward
+	a1 = X(t, :)(:);                                                                     % Get the t-th row of X, and turn it into a column vector (400 * 1)
+	a1 = [1 ; a1];                                                                      % Add a1_0 (401 * 1)
+	z2 = Theta1 * a1;                                                                % (25 * 401) * (401 * 1) = (25 * 1)
+	% z2
+	% sigmoidGradient(z2)
+	a2 = sigmoid(z2);                                                                % (25 * 1)
+	a2 = [1 ; a2];                                                                      % Add a2_0 (26 * 1)
+	z3 = Theta2 * a2;                                                                % (10 * 26) * (26 * 1) = (10 * 1)
+	a3 = sigmoid(z3);                                                                % (10 * 1) and a3 is the hypothesis h of x
+	% Step 2: calculate delta3
+	delta3 = a3 - y_matrix(t, :)(:);                                                  % (10 * 1) - (10 * 1) = (10 * 1)
+	% Step 3: calculate delta2 (we will ignore delta1)
+	delta2 = (Theta2(:, 2:end))' * delta3 .* sigmoidGradient(z2);  % (25 * 10) * (10 * 1) .* (25 * 1) = (25 * 1), for Theta2 we do not count the bias term
+	% Step 4
+	Delta1 = Delta1 + delta2 * a1';                                              % (25 * 1) * (1 * 401) = (25 * 401), the same size as Theta1
+	Delta2 = Delta2 + delta3 * a2';                                              % (10 * 1) * (1 * 26) = (10 * 26), the same size as Theta2
+end
+% Step 5
+Theta1_grad = (1 / m) * Delta1;                                                 % (25 * 401)
+Theta2_grad = (1 / m) * Delta2;                                                 % (10 * 26)
 
-
-
-
-
+% Compute regularization term
+Temp1 = Theta1;
+Temp1(:, 1) = 0;
+Temp2 = Theta2;
+Temp2(:, 1) = 0;
+Theta1_grad = Theta1_grad + (lambda / m) * Temp1;
+Theta2_grad = Theta2_grad + (lambda / m) * Temp2;
 
 
 
