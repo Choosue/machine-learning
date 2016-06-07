@@ -39,7 +39,18 @@ error_val = zeros(length(lambda_vec), 1);
 %
 %
 
+m = size(X, 1);
+m_val = size(Xval, 1);
 
+for i = 1:length(lambda_vec)
+	lambda = lambda_vec(i);
+	% Compute train error
+	theta_train = trainLinearReg([ones(m, 1) X], y, lambda);
+	[error_train(i) grad_train] = linearRegCostFunction([ones(m, 1) X], y, theta_train, 0);
+
+	% Compute cross validation error
+	[error_val(i) grad_val] = linearRegCostFunction([ones(m_val, 1) Xval], yval, theta_train, 0);
+end
 
 
 
