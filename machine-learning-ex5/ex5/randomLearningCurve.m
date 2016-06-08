@@ -19,7 +19,7 @@ for iter = 1:MaxIter
 		% compute error_train(i) = error_train(i) + computed_error_train;
 		error_train(i) = error_train(i) + linearRegCostFunction(X_rand, y_rand, theta_train, 0);
 		% compute error_val(i) = error_val(i) + computed_error_val;
-		error_val(i) = error_val(i) + linearRegCostFunction(X_rand_val, y_rand_val, theta_train, 0);
+		error_val(i) = error_val(i) + linearRegCostFunction(Xval, yval, theta_train, 0);
 	end
 end
 
