@@ -53,15 +53,13 @@ error_val   = zeros(m, 1);
 
 % ---------------------- Sample Solution ----------------------
 
-m_val = size(Xval, 1);
-
 for i = 1:m
 	% Compute train error
-	theta_train = trainLinearReg([ones(i, 1) X(1:i, :)], y(1:i), lambda);
-	[error_train(i) grad_train] = linearRegCostFunction([ones(i, 1) X(1:i, :)], y(1:i), theta_train, 0);
+	theta_train = trainLinearReg(X(1:i, :), y(1:i), lambda);
+	[error_train(i) grad_train] = linearRegCostFunction(X(1:i, :), y(1:i), theta_train, 0);
 
 	% Compute cross validation error
-	[error_val(i) grad_val] = linearRegCostFunction([ones(m_val, 1) Xval], yval, theta_train, 0);
+	[error_val(i) grad_val] = linearRegCostFunction(Xval, yval, theta_train, 0);
 end
 
 
