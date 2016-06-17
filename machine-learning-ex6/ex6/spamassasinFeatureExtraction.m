@@ -1,17 +1,34 @@
+% File Path
+file_path = "./spamassasin-dataset/easy_ham/";
+save_name = "easyham.mat";
+
+% Number of Examples
+m = 2;
+
 % Read Files
-file_names = readFileName(2500, "./spamassasin-dataset/easy_ham/cmds");
+file_names = readFileName(m, strcat(file_path, "cmds"));
 
 % Store all the examples into X
-X = zeros(25, 1899);
+X = zeros(m, 1899);
+y = zeros(m, 1);
 
-for i = 1:25
-    % Extract Features
-    file_contents  = readFile(strcat("./spamassasin-dataset/easy_ham/", file_names{1}));
-    word_indices = processEmail(file_contents);
-    X(i, :)            = emailFeatures(word_indices);
+dots = 12;
 
-    % Print Stats
-    fprintf("Length of feature vector: %d\n", length(X(i, :)));
-    fprintf("Number of non-zero entries: %d\n", sum(X(i, :) > 0));
+for i = 1:m
+    file_contents = readFile(strcat(file_path, file_names{i}));
+    word_indices  = processEmailSilent(file_contents);
+    X(i, :)       = emailFeatures(word_indices);
+    
+    fprintf('.');
+    dots = dots + 1;
+    if dots > 78
+       dots = 0;
+       fprintf('\n');
+    end
+    if exist('OCTAVE_VERSION')
+       fflush(stdout);
+    end
 end
-save("-ascii", "spamassasinTrain.mat", "X");
+fprintf(' Done! \n\n');
+
+save(save_name, "X", "y");
