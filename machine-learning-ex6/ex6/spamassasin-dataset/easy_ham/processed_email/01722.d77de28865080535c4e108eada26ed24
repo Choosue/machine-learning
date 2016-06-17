@@ -1,0 +1,951 @@
+# Created by Octave 4.0.2, Fri Jun 17 19:48:42 2016 中国标准时间 <unknown@unknown>
+# name: word_array
+# type: cell
+# rows: 1
+# columns: 118
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+return
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+path
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+emailaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+deliveri
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+date
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+sun
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+sep
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+emailaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+tim
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+peter
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+date
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+sun
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+sep
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+subject
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+spambay
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+test
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+set
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+in
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+repli
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+to
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+messag
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+id
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+greg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+ward
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+case
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+of
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+header
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+is
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+definit
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+help
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+spamassassin
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+ha
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+a
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+rule
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+for
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+it
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+if
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+you
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+have
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+header
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+like
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+date
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+or
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+subject
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+you
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+get
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+a
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+few
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+more
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+point
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+across
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+my
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+data
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+all
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+cap
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+date
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+subject
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+to
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+etc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+inde
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+appear
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+onli
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+in
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+spam
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+collect
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+otoh
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+thei
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+don
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+t
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+appear
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+often
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+less
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+than
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+of
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+spam
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+messag
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+have
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+at
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+least
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+on
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+of
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+these
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+all
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+cap
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+header
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+line
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+but
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+when
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+i
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+m
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+fight
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+what
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+ar
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+now
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+sub
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+f
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+n
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+rate
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+even
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+rare
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+clue
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+can
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+help
+
+
+
+
+

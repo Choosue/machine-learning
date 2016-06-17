@@ -9,6 +9,6 @@ file_names = cell(file_num, 1);
 fid = fopen(file_index);
 for i = 1:file_num
     txt = fgetl(fid);
-    file_names{i} = strsplit(txt, ' '){2};
+    file_names{i} = strsplit(txt, ' '){3};
 end
 fclose (fid);

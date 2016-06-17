@@ -1,0 +1,1783 @@
+# Created by Octave 4.0.2, Fri Jun 17 19:53:13 2016 中国标准时间 <unknown@unknown>
+# name: word_array
+# type: cell
+# rows: 1
+# columns: 222
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+emailaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+mon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+oct
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+return
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+path
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+deliv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+to
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+emailaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+receiv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+localhost
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+jalapeno
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+by
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+jmason
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+org
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+postfix
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+with
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+esmtp
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+id
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 26
+numbercnumberadnumberfnumb
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+for
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+mon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+oct
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+ist
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+receiv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+jalapeno
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+by
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+localhost
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+with
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+imap
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+fetchmail
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+for
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+emailaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+singl
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+drop
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+mon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+oct
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+ist
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+receiv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+dogma
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+slashnul
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+org
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+localhost
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+by
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+dogma
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+slashnul
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+org
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+with
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+esmtp
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+id
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+gnumbereknumb
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+for
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+mon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+oct
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+messag
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+id
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+to
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+emailaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+gamasutra
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+subject
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+shoot
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+from
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+hip
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+an
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+interview
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+with
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+hip
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+tanaka
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+date
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+mon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+oct
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+content
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+type
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+text
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+plain
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+encod
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+utf
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+url
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+httpaddr
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+date
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 11
+numbertnumb
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+in
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+number
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+we
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+in
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+u
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+s
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+were
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+plai
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+nintendo
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+entertain
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+system
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+known
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+as
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+famicom
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+in
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+japan
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+and
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+roughli
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+a
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+third
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+of
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+music
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+for
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+it
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+first
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+set
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+of
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+game
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+wa
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+written
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+by
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+hirokazu
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+hip
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+tanaka
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+then
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+with
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+nintendo
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+co
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+ltd
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+he
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+ha
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+written
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+music
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+for
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+countless
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+other
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+game
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+as
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+well
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+as
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+design
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+game
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+boi
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+camera
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+and
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+printer
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+and
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+also
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+score
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+soundtrack
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+to
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+pokemon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+tv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+seri
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+alexand
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+brandon
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+catch
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+up
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+with
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+the
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+legendari
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+compos
+
+
+
+
+
