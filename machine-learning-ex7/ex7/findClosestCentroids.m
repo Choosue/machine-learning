@@ -21,11 +21,28 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
+m = size(X, 1);
 
+% for i = 1:m
+%     closest = (X(i, :) - centroids(1, :)) * (X(i, :) - centroids(1, :))';
+%     idx(i) = 1;
+%     for k = 1:K
+%         current = (X(i, :) - centroids(k, :)) * (X(i, :) - centroids(k, :))';
+%         if current < closest
+%             closest = current;
+%             idx(i) = k;
+%         end
+%     end
+% end
 
+distance = zeros(m, K);
 
+for k = 1:K
+    diffs = bsxfun(@minus, X, centroids(k, :));
+    distance(:, k) = sum(diffs .^ 2, 2);
+end
 
-
+[M idx] = min(distance, [], 2);
 
 % =============================================================
 
