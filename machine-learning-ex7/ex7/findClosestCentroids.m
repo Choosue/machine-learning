@@ -42,7 +42,7 @@ for k = 1:K
     distance(:, k) = sum(diffs .^ 2, 2);
 end
 
-[M idx] = min(distance, [], 2);
+[M, idx] = min(distance, [], 2);
 
 % =============================================================
 
