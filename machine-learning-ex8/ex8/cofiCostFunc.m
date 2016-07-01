@@ -40,20 +40,34 @@ Theta_grad = zeros(size(Theta));
 %                     partial derivatives w.r.t. to each element of Theta
 %
 
+% Compute the collaborative filtering cost function (without regularization)
+% % For-loop version
+% for i = 1:num_movies
+%     for j = 1:num_users
+%         if R(i,j) == 1
+%             J = J + ((Theta(j,:)(:)' * X(i,:)(:)) - Y(i, j)) ^ 2;
+%         end
+%     end
+% end
+% J = J / 2;
+% Vectorized version
+% J = sum(((X * Theta')(R == 1)(:) - Y(R == 1)(:)) .^ 2) / 2;
+J = sum(sum((R .* (X * Theta' - Y)) .^ 2)) / 2;
 
+% Add regularized term
+J = J + (lambda / 2) * (sum(sum(Theta .^ 2)) + sum(sum(X .^ 2)));
 
+% Compute the collaborative filtering gradient
+% Vectorized version
+% Calculate X_grad
+X_grad = R .* (X * Theta' - Y) * Theta;
 
+% Calculate Theta_grad
+Theta_grad = (R .* (X * Theta' - Y))' * X;
 
-
-
-
-
-
-
-
-
-
-
+% Add regularized term
+X_grad = X_grad + lambda * X;
+Theta_grad = Theta_grad + lambda * Theta;
 
 % =============================================================
 
